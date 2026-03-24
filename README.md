@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhal Samad</h1>
+  
 - 📝 I regularly write articles on [https://medium.com/@suhalsamad](https://medium.com/@suhalsamad)
 
 - 💬 Ask me about **Data Science, Machine Learning, AI, Computer Vision & Gen-AI**
