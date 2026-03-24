@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Suhal Samad</h1>
-<h3 align="center">Solopreneur for 5+ years | Google, IBM, Microsoft & Meta Certified Data Scientist & ML Engineer| Writer | KDP publisher| Teacher</h3>
-
 - 📝 I regularly write articles on [https://medium.com/@suhalsamad](https://medium.com/@suhalsamad)
 
 - 💬 Ask me about **Data Science, Machine Learning, AI, Computer Vision & Gen-AI**
