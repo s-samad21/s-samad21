@@ -115,7 +115,6 @@ I’m open to:
 - AI collaborations
 - Startup partnerships
 - Freelance / consulting in Computer Vision
-- Speaking & technical writing
 
 <p align="left">
   <a href="https://twitter.com/suhalsamadmasud"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
