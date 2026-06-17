@@ -99,12 +99,12 @@ I share practical insights on building real-world AI systems:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-samadmasud&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-samadmasud&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=s-samad21&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-samad21&layout=compact&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-samadmasud&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-samad21&theme=radical"/>
 </p>
 
 ---
